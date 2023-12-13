@@ -1,0 +1,26 @@
+Margaret "Maggie" Hillebrecht
+2455754
+hillebrecht@chapman.edu
+CPSC 231 Section 3
+
+MP3B
+
+Source Files:
+Card.java
+Deck.java
+Dealer.java
+Player.java
+Game.java
+
+References:
+I got so much help from Dr. Elia in office hours with both classes. To specify, I got code for the overloaded
+constructor class in Game.java (lines 24-27). She also helped me with creating the method nextPlayer() in the Game class.
+
+I got help from Kaye Galang in the tutoring center. All I did was show how I was working on the Game.Play() method
+after completing most of it and my logic for my code to see if she agreed and felt like I was on track. I got the idea to do a while loop on line 72 from her.
+
+I used ChatGPT to see why some of my code wasn't working and to learn more about linked list. I got some code for my Game.isFaceCardPlayed method (lines 157-175) 
+
+Decripencies:
+The rules of the game are very iffy on working within my code. I had Dr. Elia review my code and logically told me my work made sense and should be working.
+I have blocked out the whichPattern() if statment on the Play() method since it seemed that the code still checked if a players pattern was being played. If the code was not blocked out, then it would break on runtime. I still wanted to include it to show that in reality, it should be within the Play().
