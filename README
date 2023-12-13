@@ -13,7 +13,7 @@ Player.java
 Game.java
 
 References:
-I got so much help from Dr. Elia in office hours with both classes. To specify, I got code for the overloaded
+I got help from Dr. Elia in office hours with two classes. To specify, I got code for the overloaded
 constructor class in Game.java (lines 24-27). She also helped me with creating the method nextPlayer() in the Game class.
 
 I got help from Kaye Galang in the tutoring center. All I did was show how I was working on the Game.Play() method
